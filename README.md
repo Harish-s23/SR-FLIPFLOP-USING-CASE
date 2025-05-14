@@ -1,6 +1,9 @@
 # SR-FLIPFLOP-USING-CASE
-##NAME:YUGABHARATHI M
-##REG NO:212224230314
+
+**NAME:YUGABHARATHI M**
+
+**REG NO:212224230314**
+
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
